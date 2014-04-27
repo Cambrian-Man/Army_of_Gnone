@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:74189d661fcc39e6a8998eabe95d8df1:29a2987ec27e2bebfefd13fce30f56b8:a3c246832ea35f0bdda766159aff8361$ -->
+<TextureAtlas imagePath="sprites.png">
+    <SubTexture name="dirt0" x="58" y="102" width="10" height="16" frameX="-2" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="dirt1" x="46" y="102" width="10" height="16" frameX="-4" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="dirt2" x="112" y="34" width="10" height="16" frameX="-4" frameY="0" frameWidth="16" frameHeight="16"/>
+    <SubTexture name="gnome_dead0" x="106" y="66" width="24" height="30" frameX="-4" frameY="-2" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="gnome_dead1" x="102" y="2" width="24" height="30" frameX="-4" frameY="-2" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="gnome_dead2" x="28" y="68" width="24" height="32" frameX="-4" frameY="0" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="gnome_dead3" x="86" y="34" width="24" height="30" frameX="-4" frameY="-2" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="gnome_fall" x="28" y="36" width="30" height="30" frameX="-2" frameY="0" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="gnome_jump" x="2" y="2" width="32" height="30" frameX="0" frameY="-2" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="gnome_sprout0" x="106" y="98" width="20" height="26" frameX="-6" frameY="-6" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="gnome_sprout1" x="24" y="102" width="20" height="24" frameX="-6" frameY="-8" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="gnome_sprout2" x="2" y="102" width="20" height="24" frameX="-6" frameY="-8" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="gnome_stand" x="2" y="68" width="24" height="32" frameX="-6" frameY="0" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="gnome_walk0" x="80" y="70" width="24" height="30" frameX="-4" frameY="-2" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="gnome_walk1" x="60" y="36" width="24" height="32" frameX="-4" frameY="0" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="gnome_walk2" x="54" y="70" width="24" height="30" frameX="-4" frameY="-2" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="gnome_walk3" x="2" y="34" width="24" height="32" frameX="-4" frameY="0" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="sign" x="36" y="2" width="30" height="32" frameX="0" frameY="0" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="switch_down" x="68" y="24" width="32" height="8" frameX="0" frameY="-24" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="switch_up" x="68" y="2" width="32" height="20" frameX="0" frameY="-12" frameWidth="32" frameHeight="32"/>
+</TextureAtlas>

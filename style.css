@@ -1,0 +1,30 @@
+@font-face {
+	font-family: 'mini-serif';
+	src: url('./mini_serif.ttf');
+}
+
+body {
+	background-image: url('./assets/gfx/far_back.png');
+	background-color: #211;
+	font-family: 'mini-serif', serif;
+	color: white;
+}
+
+a {
+	color: white;
+}
+
+#game {
+	width: 800px;
+	height: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 5px solid black
+}
+
+#info {
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	float: left;
+}
